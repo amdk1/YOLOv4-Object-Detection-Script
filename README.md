@@ -1,2 +1,2 @@
-# YOLOv4-Object-Detection-Script
-This python program uses the pre-trained YOLOv4 model to detect objects in images.
+# yolo_objectDetection_imagesCPU
+YOLO Object Detection on Images on a CPU
